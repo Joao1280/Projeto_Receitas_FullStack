@@ -1,11 +1,10 @@
-div, span {
-    border: solid;
-    
+
+body {
+    background-image:url(./assets/bg-image.jpg);
+    background-size: cover;
 }
 
-.margin {
-    margin: 30px;
-
-
+img {
+    border-radius: 16px;
 }
 
