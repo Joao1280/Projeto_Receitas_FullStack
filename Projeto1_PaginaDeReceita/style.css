@@ -9,27 +9,33 @@
 }
 
 body {
-    background-image: url(/assets/bg-image.jpg);
+    background-image: url(/assets/cookie-gigante-01.jpg);
     background-size: cover;
-    background-color: #bba53569;
+    background-color: #bba5359f;
+    
 }
 
 #page {
     box-sizing: border-box;
     width: 800px;
     padding: 24px;
-    background-color: #F0E8C2;
+    background-color: #f0ebc2;
     border-radius: 24px;
-    margin: 48px auto;
+    margin: 48px auto 28px;
 }
 
 img {
     border-radius: 16px;
+    width: 650px;
+    height: 488px;
+    display: block;
+    margin: 0 auto;
 
 }
 
 main {
     padding: 24px;
+
 }
 
 section + section {
@@ -58,3 +64,15 @@ h1, h2 {
 ul {
     padding-left: 28px;
 }
+
+footer {
+    color: #000000;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+    display: flex;
+    
+} 
