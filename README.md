@@ -17,4 +17,4 @@ Este é um projeto de estudos de desenvolvimento web full stack. A página criad
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/Joao1280/Projeto1_PaginaDeReceita.git
